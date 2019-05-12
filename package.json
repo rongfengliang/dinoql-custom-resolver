@@ -1,0 +1,13 @@
+{
+  "name": "dinoql-app",
+  "version": "1.0.0",
+  "main": "app.js",
+  "license": "MIT",
+  "dependencies": {
+    "dinoql": "^0.4.0",
+    "graphql-tag": "^2.10.1"
+  },
+  "scripts": {
+    "s":"node app"
+  }
+}
